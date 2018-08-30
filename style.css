@@ -1,0 +1,23 @@
+body{
+    background-color: #c5dfc5
+}
+.contacto{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    display: inline-block;
+    padding: 1em;
+
+}
+.contacto a:hover{
+    color: #a6c59c
+}
+img{
+    width: 10em;
+    height: auto;
+}
+.articulo{
+    background-color: rgb(238, 214, 178);
+    margin: 1em auto ;
+    margin-top: 0%;
+    border: 0.2em solid white;
+}
