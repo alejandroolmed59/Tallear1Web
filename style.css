@@ -1,16 +1,32 @@
-body{
-    background-color: #c5dfc5
+.{
+    background-color: #c5dfc5;
 }
-.contacto{
+header{
+    background-color: #c5dfc5;
+    background: url(local/nube2.png);
+    background-repeat: no-repeat;
+    background-size: 7em;
+}
+body{
+    background-color: #c5dfc5;
+}
+.contacto UL li {
     border-top: 2px solid black;
     border-bottom: 2px solid black;
-    display: inline-block;
+    display: inline;
     padding: 1em;
+    text-decoration: none;
 
 }
+a{
+    text-decoration: none;
+    color: black;
+}
+
 .contacto a:hover{
     color: #a6c59c
 }
+
 img{
     width: 10em;
     height: auto;
